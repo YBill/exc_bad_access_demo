@@ -22,7 +22,7 @@ A new project has EXC_BAD_ACCESS crash.
 Configure Admob ID in Info.plist（The ID below is the Admob test ID）
 
 ```
-	<key>GADApplicationIdentifier</key>
+    <key>GADApplicationIdentifier</key>
     <string>ca-app-pub-3940256099942544~1458002511</string>
 ```
 
